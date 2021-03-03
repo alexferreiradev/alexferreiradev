@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Alex and I working on update freemind software to maven project to get more contributors on github. Help me !
+
+See more about me on [my web site](www.alexferreira.dev)
 <!--
 **alexferreiradev/alexferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
