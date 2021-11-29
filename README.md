@@ -3,6 +3,13 @@
 I am Alex and I working on update freemind software to maven project to get more contributors on github. Help me !
 
 See more about me on [my web site](https://www.alexferreira.dev)
+
+## More about me on github
+<div>
+  <a href="https://github.com/alexferreiradev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexferreiradev&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiradev&layout=compact&langs_count=7&theme=blue"/>
+</div>
 <!--
 **alexferreiradev/alexferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
